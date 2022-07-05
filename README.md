@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Burak Kulaksız</h1>
-<h3 align="center">A passionate and self-taught frontend developer from Turkey.</h3>
+<h1 align="center">I'm Burak Kulaksız</h1>
+<h3 align="center">A passionate and self-taught frontend developer from Istanbul, Turkey.</h3>
 
-- 💬 Ask me about **JavaScript, React, Python**
+- 💬 Ask me about **JavaScript, React, Python.**
 
 - 📫 How to reach me **burakkulaksiz.dev@gmail.com**
+
+- I'm open to job offers. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
