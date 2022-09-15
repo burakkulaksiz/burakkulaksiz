@@ -1,7 +1,7 @@
 <h1 align="center">I'm Burak Kulaksız</h1>
 <h3 align="center">A passionate and self-taught frontend developer from Istanbul, Turkey.</h3>
 
-💬 Ask me about **JavaScript, React, Python.**
+💬 **JavaScript, React, Redux and Hooks.**
 
 📫 How to reach me **burakkulaksiz.dev@gmail.com**
 
